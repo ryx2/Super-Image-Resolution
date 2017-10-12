@@ -15,4 +15,4 @@ Here are the two room images calibrated.
 
 ## Results: information gain visible
 
-<img src="demo_image.png" width="600">
+<img src="demo_image.png" width="1600">
