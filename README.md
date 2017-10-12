@@ -5,9 +5,9 @@ Generating Super Resolution Images with image calibration. ECE 4250 Final Projec
 
 Took 7 pictures of my room, and registered the images in MATLAB, interpolated, added and averaged the images using some transformation matrices. 
 
-![room image 1](myroom2.jpg =500x)
-![room image 2](myroom3.jpg =500x)
+![room image 1](myroom2.jpg width=500)
+![room image 2](myroom3.jpg width=500)
 
 Here are the two room images calibrated.
 
-![room image matched](matchedroom.jpg =500x)
+![room image matched](matchedroom.jpg width=500)
