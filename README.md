@@ -11,4 +11,4 @@ Took 7 pictures of my room, and registered the images in MATLAB, interpolated, a
 
 Here are the two room images calibrated.
 
-<img src="matchedroom.jpg" width="600">
+<img src="matchedroom.png" width="600">
